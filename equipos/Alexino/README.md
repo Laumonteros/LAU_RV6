@@ -11,7 +11,7 @@ El Python de esta carpeta es una copia idéntica del archivo recibido. Alexino v
 | Archivo | Función |
 |---|---|
 | alexino_v4.py | Código fuente completo. |
-| FICHA_TECNICA.md | Esta descripción. |
+| README.md | Esta ficha técnica. |
 
 No se recibió un archivo original de bloques ni una configuración JSON de Alexino. El programa usa la biblioteca RobotRL suministrada por RoboLiga/Webots. En las pruebas locales se empleó el modelo base disponible; no se conoce su posible configuración de competición.
 
