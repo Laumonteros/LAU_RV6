@@ -11,7 +11,7 @@ El Python de esta carpeta es una copia idéntica del archivo recibido. La copia 
 | Archivo | Función |
 |---|---|
 | kawasaki.py | Código fuente completo. |
-| FICHA_TECNICA.md | Esta descripción. |
+| README.md | Esta ficha técnica. |
 
 No se recibió un archivo original de bloques ni una configuración JSON de Kawasaki. El programa importa RobotRL, suministrado por la instalación de RoboLiga/Webots, y utiliza el modelo base disponible cuando no se carga una configuración propia. No se agregaron bloques o hardware supuestos.
 
