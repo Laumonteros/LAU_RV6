@@ -1,0 +1,41 @@
+{
+  "Distance Sensor 1": {
+    "dictName": "Distance Sensor 1",
+    "name": "Distance Sensor",
+    "customName": "colorPiso",
+    "type": "",
+    "x": 0,
+    "y": -100,
+    "z": -400,
+    "rx": 1,
+    "ry": 0,
+    "rz": 0,
+    "a": -1.5708
+  },
+  "Distance Sensor 2": {
+    "dictName": "Distance Sensor 2",
+    "name": "Distance Sensor",
+    "customName": "sensorDistanciaI",
+    "type": "",
+    "x": -220,
+    "y": 40,
+    "z": -400,
+    "rx": 0,
+    "ry": 1,
+    "rz": 0,
+    "a": 1.57
+  },
+  "Distance Sensor 3": {
+    "dictName": "Distance Sensor 3",
+    "name": "Distance Sensor",
+    "customName": "sensorDistanciaD",
+    "type": "",
+    "x": 220,
+    "y": 40,
+    "z": -400,
+    "rx": 0,
+    "ry": 1,
+    "rz": 0,
+    "a": 1.57
+  }
+}
